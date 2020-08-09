@@ -29,7 +29,7 @@ Our team built a Game of Thrones themed simulation of Target's item detail page,
 </table>
 
 ## Contributors
-- [Brian McHugh] (https://github.com/Brian-McHugh) - Navigartion Bar
+- [Brian McHugh] (https://github.com/Brian-McHugh) - Navigation Bar
 - [Blake Guidry] (https://github.com/blakeGuidry) - Item Main & About This Item
 - [George Pazdral] (https://github.com/JorgeAntonio512) - Related Items
 - [Rex Loyer] (https://github.com/Rex-Loyer) - Reviews
